@@ -64,8 +64,7 @@ Here are some ideas to get you started:
 <img src ='https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif'>
 <br> 
 
-![Jasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchicajas&show_icons=true&count_private=true&theme=radical&border_color=#6a0dad )
-<hr>
+
  
 <!-- 
 ##  Funny Memes 
