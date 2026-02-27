@@ -36,13 +36,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new skills in **Data Science**, **Product Management**,**Cloud** , **CloudNative** ,**Networking** and **Cyber Security**.
 
 
-- 📫 How to reach me:  &nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://twitter.com/DevchicaJasmin" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&width=15px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jasminalvarezdev@gmail.com?subject=Hello%20Jasmin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
-
 <hr>
 
 ## ⚡ Technologies
