@@ -36,21 +36,6 @@ I'm a **Resilient Coders** alumna and **AI Product Engineer**.
 
 ---
 
-## `C:\USERS\JAS\EXPERIENCE.LOG`
-
-### Hewlett Packard Enterprise
-**Senior Product Manager & Technical Marketing Engineer**
-
-Built developer-facing tools and workflows for API and field users — with measurable impact:
-
-| Impact | Before → After |
-| :--- | :---: |
-| **API workflow** | **45 days → 45 seconds** |
-| **NinjaSTARS workflow** | **60 min → 12 min** |
-| **Field tooling reach** | **2,000+ users** |
-
----
-
 ## `C:\USERS\JAS\PROJECTS`
 
 ### <img src="./assets/folder-open.png" alt="" width="20" height="20" /> [KrewsAgent](https://github.com/devchicajas/KrewsAgent)
