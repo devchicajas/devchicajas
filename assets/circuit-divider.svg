@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="28" viewBox="0 0 680 28" role="img" aria-label="Circuit divider line">
+  <rect width="680" height="28" fill="none"/>
+  <path d="M8 14 H120" stroke="#0E9384" stroke-width="2"/>
+  <circle cx="120" cy="14" r="3" fill="#70E6B1"/>
+  <path d="M120 14 H220 V8 H300" stroke="#0E9384" stroke-width="2" fill="none"/>
+  <circle cx="300" cy="8" r="3" fill="#70E6B1"/>
+  <path d="M300 8 H380 V20 H460" stroke="#0E9384" stroke-width="2" fill="none"/>
+  <circle cx="460" cy="20" r="3" fill="#70E6B1"/>
+  <path d="M460 20 H560 V14 H672" stroke="#0E9384" stroke-width="2" fill="none"/>
+  <circle cx="672" cy="14" r="3" fill="#70E6B1"/>
+  <rect x="330" y="11" width="6" height="6" fill="#70E6B1"/>
+  <text x="340" y="17" font-family="monospace" font-size="9" fill="#70E6B1">JAS.MODE</text>
+</svg>

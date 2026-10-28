@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="40" viewBox="0 0 52 40" role="img" aria-label="Open retro folder icon">
+  <rect width="52" height="40" fill="#061512"/>
+  <path d="M4 10h14l3 3h17v6H8l-4 14h36l4-14H42V13H21l-3-3H4v24z" fill="#0B302B"/>
+  <path d="M8 19h36l-4 14H4l4-14z" fill="#0E9384"/>
+  <path d="M8 19h36v3H8z" fill="#70E6B1"/>
+  <rect x="12" y="26" width="14" height="2" fill="#E7FFF0" opacity="0.9"/>
+</svg>

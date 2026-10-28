@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="16" viewBox="0 0 54 16" role="img" aria-label="Window controls">
+  <rect x="1" y="1" width="14" height="14" fill="#0B302B" stroke="#70E6B1" stroke-width="1"/>
+  <rect x="4" y="7" width="8" height="2" fill="#70E6B1"/>
+  <rect x="19" y="1" width="14" height="14" fill="#0B302B" stroke="#70E6B1" stroke-width="1"/>
+  <rect x="22" y="4" width="8" height="8" fill="none" stroke="#70E6B1" stroke-width="2"/>
+  <rect x="37" y="1" width="14" height="14" fill="#0B302B" stroke="#70E6B1" stroke-width="1"/>
+  <path d="M40 4 L48 12 M48 4 L40 12" stroke="#70E6B1" stroke-width="2"/>
+</svg>
