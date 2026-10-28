@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./assets/jas-os-99-hero.jpg" alt="Full JAS OS '99 pixel-art workspace with CRT running JAS.EXE and Jas at her desk" width="100%" />
+  <img src="./assets/jas-os-99-hero.jpg" alt="Full JAS OS '99 pixel-art workspace with CRT running JAS.EXE and Jas at her desk" width="85%" />
 
   <br/>
 
