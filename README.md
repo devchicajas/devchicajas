@@ -1,36 +1,5 @@
 <!-- JAS OS '99 // ABOUT_ME.EXE — GitHub profile README -->
 
-<div align="center">
-
-  <img src="./assets/jas-os-99-hero.jpg" alt="Full JAS OS '99 pixel-art workspace with CRT running JAS.EXE and Jas at her desk" width="85%" />
-
-  <br/>
-
-  <p>
-    <img src="./assets/floppy-jas.png" alt="" width="28" height="28" />
-    &nbsp;<strong><code>JAS OS '99</code></strong> // <strong><code>JAS.EXE</code></strong> // <strong><code>ABOUT_ME.EXE</code></strong>&nbsp;
-    <img src="./assets/floppy-jas.png" alt="" width="28" height="28" />
-  </p>
-
-  <h2>Jasmin</h2>
-
-  <p>Technical Product Manager · AI Builder · Creative Technologist</p>
-
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-SYSTEM_LOADED-70E6B1?style=for-the-badge&labelColor=061512" alt="Status: SYSTEM LOADED" />
-    <img src="https://img.shields.io/badge/BOOT-JAS.EXE-0E9384?style=for-the-badge&labelColor=061512" alt="Boot: JAS.EXE" />
-    <img src="https://img.shields.io/badge/MODE-JAS.MODE-0B302B?style=for-the-badge&labelColor=061512" alt="Mode: JAS.MODE" />
-  </p>
-
-  <p>
-    <a href="https://jasminalvarez.com"><img src="https://img.shields.io/badge/Portfolio-jasminalvarez.com-70E6B1?style=flat-square&labelColor=061512" alt="Portfolio: jasminalvarez.com" /></a>
-    <a href="https://github.com/devchicajas"><img src="https://img.shields.io/badge/GitHub-devchicajas-0E9384?style=flat-square&labelColor=061512&logo=github&logoColor=70E6B1" alt="GitHub: devchicajas" /></a>
-    <img src="https://img.shields.io/badge/Atlanta%2C_GA-0B302B?style=flat-square&labelColor=061512" alt="Location: Atlanta, GA" />
-  </p>
-
-  <img src="./assets/circuit-divider.png" alt="" width="100%" />
-
-</div>
 
 ---
 
