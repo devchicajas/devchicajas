@@ -42,7 +42,7 @@ My world revolves around developer tools, AI, cloud infrastructure, and making t
 
 I enjoy experimenting, learning new technologies, and building things that solve real problems.
 
-*Always learning. Always building. ✳*
+Always learning. Always building.
 
 ---
 
