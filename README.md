@@ -33,17 +33,6 @@ also ...... AI Builder · Creative Technologist
 mode ...... JAS.MODE — always learning, always building
 ────────────────────────────────────────
 ```
-
-Hi, I'm Jasmin, but you can call me **Jas**. 👾
-
-I'm a technical product manager, AI builder, and creative technologist who loves turning messy ideas into useful products.
-
-My world revolves around developer tools, AI, cloud infrastructure, and making technology easier for people to use.
-
-I enjoy experimenting, learning new technologies, and building things that solve real problems.
-
-Always learning. Always building.
-
 ---
 
 ## `C:\USERS\JAS\PROJECTS`
