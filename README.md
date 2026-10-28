@@ -24,15 +24,15 @@
 
 ## `C:\USERS\JAS\WHOAMI`
 
-Hi, I'm **Jasmin**, but you can call me **Jas**.
+Hi, I'm Jasmin, but you can call me **Jas**. 👾
 
-I'm a technical product manager and AI builder with a background in developer tools, cloud, and engineering.
+I'm a technical product manager, AI builder, and creative technologist who loves turning messy ideas into useful products.
 
-Previously, I worked as a **Senior Product Manager** and **Technical Marketing Engineer** at **Hewlett Packard Enterprise**.
+My world revolves around developer tools, AI, cloud infrastructure, and making technology easier for people to use.
 
-I'm a **Resilient Coders** alumna and **AI Product Engineer**.
+I enjoy experimenting, learning new technologies, and building things that solve real problems.
 
-> I turn complex systems and ambiguous requirements into products and workflows people can actually use.
+*Always learning. Always building. ✳*
 
 ---
 
